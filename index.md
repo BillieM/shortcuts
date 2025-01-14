@@ -1,173 +1,173 @@
 General Shortcuts
-    - Line navigation
-        - Arrow keys 
-        - Modifiers
-            - `ALT` - move in 'word' increments
-            - `CMD` - move in 'line' increments
-            - `SHIFT` - selects items 
-        - To enable these in ITerm
-            - Settings -> Profiles -> Keys -> Key Mappings -> Presets -> Natural Text Editing
-    - vim bindings
-        - I do not use these
-        - vim is considerably more effort to learn, but much more powerful
-        - vim bindings can be used in many places, other than just the vim editor
-            - vscode
-            - terminal
-            - browser
-                - [vimium](https://vimium.github.io/)
-                    - more functionality than link hints, but more complicated
-                - [LinkHints](https://lydell.github.io/LinkHints/)
-                    - click links on the browser using just your keyboard
+- Line navigation
+    - Arrow keys 
+    - Modifiers
+        - `ALT` - move in 'word' increments
+        - `CMD` - move in 'line' increments
+        - `SHIFT` - selects items 
+    - To enable these in ITerm
+        - Settings -> Profiles -> Keys -> Key Mappings -> Presets -> Natural Text Editing
+- vim bindings
+    - I do not use these
+    - vim is considerably more effort to learn, but much more powerful
+    - vim bindings can be used in many places, other than just the vim editor
+        - vscode
+        - terminal
+        - browser
+            - [vimium](https://vimium.github.io/)
+                - more functionality than link hints, but more complicated
+            - [LinkHints](https://lydell.github.io/LinkHints/)
+                - click links on the browser using just your keyboard
 
 VSCode Commands
-    - `CMD + P` 
-        - Fuzzy Find 
-            - allows you jump to files in the currently open workspace
-        - You can also use other vscode go-tos by typing the right symbol here
-            - i.e. `>` for command palette commands, `@` for go to symbol
-    - `CMD + SHIFT + O` / `CMD + P` - `@`
-        - Jump to symbols in the currently open file, i.e. functions/ interfaces/ classes
-    - `CMD + T` / `CMD + P` - `#`
-        - Jump to symbols in the workspace, i.e. functions/ interfaces/ classes
-    - `CMD + SHIFT + P` / `CMD + P` - `>`
-        - Able to do lots of things!
-        - If it's an action you want to complete within vscode, there is probably a command for it in the command palete
-        - Keyboard shortcuts are also shown next to the command within the palette, giving you an easy way to learn the commands you use most
-        - VSCode extensions will often include their own command palette commands
-        - Examples
-            - Controlling git
-            - Running tests
-            - Folding/ Unfolding code
-            - Adding cursors to lines
-            - Changing the case of text
-            - Navigating vscode (i.e. switching to the source control tab)
+- `CMD + P` 
+    - Fuzzy Find 
+        - allows you jump to files in the currently open workspace
+    - You can also use other vscode go-tos by typing the right symbol here
+        - i.e. `>` for command palette commands, `@` for go to symbol
+- `CMD + SHIFT + O` / `CMD + P` - `@`
+    - Jump to symbols in the currently open file, i.e. functions/ interfaces/ classes
+- `CMD + T` / `CMD + P` - `#`
+    - Jump to symbols in the workspace, i.e. functions/ interfaces/ classes
+- `CMD + SHIFT + P` / `CMD + P` - `>`
+    - Able to do lots of things!
+    - If it's an action you want to complete within vscode, there is probably a command for it in the command palete
+    - Keyboard shortcuts are also shown next to the command within the palette, giving you an easy way to learn the commands you use most
+    - VSCode extensions will often include their own command palette commands
+    - Examples
+        - Controlling git
+        - Running tests
+        - Folding/ Unfolding code
+        - Adding cursors to lines
+        - Changing the case of text
+        - Navigating vscode (i.e. switching to the source control tab)
 
 VSCode Shortcuts
-    - `CMD + J`
-        - Open/ close the bottom pane
-    - `CMD + B`
-        - Open / close the side pane
-    - `CMD + F`
-        - Search file
-    - `CMD + SHIFT + F`
-        - Search workspace
-        - `F4` / `SHIFT + F4` to jump through these searches
-        - Lots more shortcuts here for navigating the search menu / performing replacements
-    - `F8` / `SHIFT + F8`
-        - Navigate through the 'problems' tab
-        - Can be especially useful when refactoring
-    - `F12`
-        - Go to definition
-    - `CTRL + -`
-        - Go to last position
+- `CMD + J`
+    - Open/ close the bottom pane
+- `CMD + B`
+    - Open / close the side pane
+- `CMD + F`
+    - Search file
+- `CMD + SHIFT + F`
+    - Search workspace
+    - `F4` / `SHIFT + F4` to jump through these searches
+    - Lots more shortcuts here for navigating the search menu / performing replacements
+- `F8` / `SHIFT + F8`
+    - Navigate through the 'problems' tab
+    - Can be especially useful when refactoring
+- `F12`
+    - Go to definition
+- `CTRL + -`
+    - Go to last position
 
 MacOS Shortcuts
-    - `CMD + SPACE`
-        - The spotlight, useful for navigating apps and files on your machine
-    - `CMD + TAB`
-        - Navigate between open applications
-    - `CMD + CTRL + F`
-        - Maximise window
-    - `CTRL + LEFT/ RIGHT ARROW KEY`
-        - Switch between open workspaces
-    - `CMD + CTRL + Q`
-        - Lock your laptop
+- `CMD + SPACE`
+    - The spotlight, useful for navigating apps and files on your machine
+- `CMD + TAB`
+    - Navigate between open applications
+- `CMD + CTRL + F`
+    - Maximise window
+- `CTRL + LEFT/ RIGHT ARROW KEY`
+    - Switch between open workspaces
+- `CMD + CTRL + Q`
+    - Lock your laptop
 
 Regular Expressions (RegEx)
-    - Knowing a little bit of regex can be very useful
-    - Not just for code, but for performing searches/ replacements within code
-    - Tools like [regex101](https://regex101.com/) offer a syntax reference as well as the ability to test your regex
+- Knowing a little bit of regex can be very useful
+- Not just for code, but for performing searches/ replacements within code
+- Tools like [regex101](https://regex101.com/) offer a syntax reference as well as the ability to test your regex
 
 Firefox (Many of these are not firefox exclusive)
-    - `CMD + ALT + LEFT/ RIGHT ARROW KEY`
-        - Navigate to Next/ Previous tab
-    - `CMD + NUMBERS`
-        - Navigate to specific tab
-    - `CMD + R`
-        - Refresh
-    - `CMD + L`
-        - Focus address bar
-    - `CMD + T`
-        - New tab with address bar focused
-    - `CMD + W`
-        - Close tab
-    - `CMD + B`
-        - Bookmarks sidebar
-    - `CMD + D`
-        - Create shortcut
-    - Address bar bangs (This exists on other browsers too but will be slightly different)
-        - about:preferences#search(about:preferences#search)
-        - Built in
-            - `@google`
-            - `@bing`
-            - `@duckduckgo`
-            - `@ebay`
-            - `@wikipedia`
-            - `*`
-                - Bookmarks
-            - `%`
-                - Tabs
-            - `^`
-                - History
-        - Custom bangs
-            - These allow you to define custom keywords/ search targets
-            - Requires a little bit of extra setup on firefox
-                - [about:config](about:config)
-                - Search `browser.urlbar.update2.engineAliasRefresh`
-                - Add a new boolean var & set to true
-            - Some ideas
-                - Confluence search
-                - Jira search
-                - VPB-
-                - ChatGPT/ Claude/ your preferred AI tool
+- `CMD + ALT + LEFT/ RIGHT ARROW KEY`
+    - Navigate to Next/ Previous tab
+- `CMD + NUMBERS`
+    - Navigate to specific tab
+- `CMD + R`
+    - Refresh
+- `CMD + L`
+    - Focus address bar
+- `CMD + T`
+    - New tab with address bar focused
+- `CMD + W`
+    - Close tab
+- `CMD + B`
+    - Bookmarks sidebar
+- `CMD + D`
+    - Create shortcut
+- Address bar bangs (This exists on other browsers too but will be slightly different)
+    - about:preferences#search(about:preferences#search)
+    - Built in
+        - `@google`
+        - `@bing`
+        - `@duckduckgo`
+        - `@ebay`
+        - `@wikipedia`
+        - `*`
+            - Bookmarks
+        - `%`
+            - Tabs
+        - `^`
+            - History
+    - Custom bangs
+        - These allow you to define custom keywords/ search targets
+        - Requires a little bit of extra setup on firefox
+            - [about:config](about:config)
+            - Search `browser.urlbar.update2.engineAliasRefresh`
+            - Add a new boolean var & set to true
+        - Some ideas
+            - Confluence search
+            - Jira search
+            - VPB-
+            - ChatGPT/ Claude/ your preferred AI tool
 
 Terminal Shortcuts (ITerm2)
-    - `CMD + ALT + ARROW KEYS`
-        - Move between panes
-    - `CMD + NUMBERS`
-        - Move between tabs
-    - `CMD + W`
-        - Close pane/ tab
-    - `CMD + D` 
-        - New pane to the right
-    - `CMD + SHIFT + D`
-        - New pane below
+- `CMD + ALT + ARROW KEYS`
+    - Move between panes
+- `CMD + NUMBERS`
+    - Move between tabs
+- `CMD + W`
+    - Close pane/ tab
+- `CMD + D` 
+    - New pane to the right
+- `CMD + SHIFT + D`
+    - New pane below
 
 General Terminal Usage
-    - If you're comfortable with the terminal, you can do many things quickly
-        - Often, things you might think would require a script can be done with a single line terminal command
-        - Very deep rabbit hole
-    - Manipulating file structure
-        - Flattening directories
-        - Sorting files within a directory
-    - JSON manipulation
-        - [jq](https://jqlang.github.io/jq/)
-    - Searching files
-        - `find`
-    - Text manipulation/ searching
-        - `grep`
-            - General purpose searching
-        - `ack` 
-            - Searching source code
-        - `sed`
-            - Text transformation
-        - `awk`
-            - More powerful mix of the above
-        - `perl`
-            - A whole programming language with a focus on text manipulation
-    - Piping/ redirection
-        - Send file content into commands
-        - Send command output into other commands/ files
-    - Bash/ Zsh
-        - Scripting
-            - Sometimes you don't know the quick and easy terminal command to do a thing
-            - Writing a quick bash/zsh script can be a good option
-        - `~/.zshrc`/ `~/.bashrc`
-            - Allows you to run commands when your shell is loaded to setup your environment
-            - This can be used to e.g.
-                - Set environment variables
-                - Create aliases/ functions
-            - Premade configs
-                - The most popular is [oh my zsh](https://ohmyz.sh/)
-                    - Makes the terminal prettier and adds some nice QOL functionality
-                
+- If you're comfortable with the terminal, you can do many things quickly
+    - Often, things you might think would require a script can be done with a single line terminal command
+    - Very deep rabbit hole
+- Manipulating file structure
+    - Flattening directories
+    - Sorting files within a directory
+- JSON manipulation
+    - [jq](https://jqlang.github.io/jq/)
+- Searching files
+    - `find`
+- Text manipulation/ searching
+    - `grep`
+        - General purpose searching
+    - `ack` 
+        - Searching source code
+    - `sed`
+        - Text transformation
+    - `awk`
+        - More powerful mix of the above
+    - `perl`
+        - A whole programming language with a focus on text manipulation
+- Piping/ redirection
+    - Send file content into commands
+    - Send command output into other commands/ files
+- Bash/ Zsh
+    - Scripting
+        - Sometimes you don't know the quick and easy terminal command to do a thing
+        - Writing a quick bash/zsh script can be a good option
+    - `~/.zshrc`/ `~/.bashrc`
+        - Allows you to run commands when your shell is loaded to setup your environment
+        - This can be used to e.g.
+            - Set environment variables
+            - Create aliases/ functions
+        - Premade configs
+            - The most popular is [oh my zsh](https://ohmyz.sh/)
+                - Makes the terminal prettier and adds some nice QOL functionality
+            
