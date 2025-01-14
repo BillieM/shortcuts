@@ -1,4 +1,4 @@
-General Shortcuts
+## General Shortcuts
 - Line navigation
     - Arrow keys 
     - Modifiers
@@ -19,7 +19,7 @@ General Shortcuts
             - [LinkHints](https://lydell.github.io/LinkHints/)
                 - click links on the browser using just your keyboard
 
-VSCode Commands
+## VSCode Commands
 - `CMD + P` 
     - Fuzzy Find 
         - allows you jump to files in the currently open workspace
@@ -42,7 +42,7 @@ VSCode Commands
         - Changing the case of text
         - Navigating vscode (i.e. switching to the source control tab)
 
-VSCode Shortcuts
+## VSCode Shortcuts
 - `CMD + J`
     - Open/ close the bottom pane
 - `CMD + B`
@@ -61,7 +61,7 @@ VSCode Shortcuts
 - `CTRL + -`
     - Go to last position
 
-MacOS Shortcuts
+## MacOS Shortcuts
 - `CMD + SPACE`
     - The spotlight, useful for navigating apps and files on your machine
 - `CMD + TAB`
@@ -73,12 +73,12 @@ MacOS Shortcuts
 - `CMD + CTRL + Q`
     - Lock your laptop
 
-Regular Expressions (RegEx)
+## Regular Expressions (RegEx)
 - Knowing a little bit of regex can be very useful
 - Not just for code, but for performing searches/ replacements within code
 - Tools like [regex101](https://regex101.com/) offer a syntax reference as well as the ability to test your regex
 
-Firefox (Many of these are not firefox exclusive)
+## Firefox (Many of these are not firefox exclusive)
 - `CMD + ALT + LEFT/ RIGHT ARROW KEY`
     - Navigate to Next/ Previous tab
 - `CMD + NUMBERS`
@@ -121,7 +121,7 @@ Firefox (Many of these are not firefox exclusive)
             - VPB-
             - ChatGPT/ Claude/ your preferred AI tool
 
-Terminal Shortcuts (ITerm2)
+## Terminal Shortcuts (ITerm2)
 - `CMD + ALT + ARROW KEYS`
     - Move between panes
 - `CMD + NUMBERS`
@@ -133,7 +133,7 @@ Terminal Shortcuts (ITerm2)
 - `CMD + SHIFT + D`
     - New pane below
 
-General Terminal Usage
+## General Terminal Usage
 - If you're comfortable with the terminal, you can do many things quickly
     - Often, things you might think would require a script can be done with a single line terminal command
     - Very deep rabbit hole
