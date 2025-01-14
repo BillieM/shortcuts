@@ -1,3 +1,5 @@
+# Shortcuts
+
 ## General Shortcuts
 - Line navigation
     - Arrow keys 
