@@ -78,7 +78,7 @@
 - `CTRL + DOWN ARROW`
     - Mission control but only for the same application
     - Show open windows of the currently open application in the current workspace
-- `CMD + \``
+- ``CMD + ```
     - Cycle focus between instances of the currently focussed application
     - I.e. if you have 5 VSCode windows open, this allows you to easily switch between them
     - Will only switch between items in the current workspace (Fullscreened items are not included)
