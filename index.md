@@ -10,6 +10,7 @@
 - vim bindings
     - I do not use these
     - vim is considerably more effort to learn, but much more powerful
+    - If you're interested in giving vim a go, have a look at the vim tutor, just type `vimtutor` into your terminal to access it
     - vim bindings can be used in many places, other than just the vim editor
         - vscode
         - terminal
