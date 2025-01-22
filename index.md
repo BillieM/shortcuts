@@ -21,15 +21,18 @@
                 - click links on the browser using just your keyboard
 
 ## VSCode Commands
+- There are equivalents for these in XCode too (and probably the majority of editors)
 - `CMD + P` 
     - Fuzzy Find 
         - allows you jump to files in the currently open workspace
     - You can also use other vscode go-tos by typing the right symbol here
         - i.e. `>` for command palette commands, `@` for go to symbol
+    - Open quickly seems to be the XCode equivalent
 - `CMD + SHIFT + O` / `CMD + P` - `@`
     - Jump to symbols in the currently open file, i.e. functions/ interfaces/ classes
 - `CMD + T` / `CMD + P` - `#`
     - Jump to symbols in the workspace, i.e. functions/ interfaces/ classes
+    - From what I can see, Open quickly in XCode seems to offer this functionality as well as being able to navigate files
 - `CMD + SHIFT + P` / `CMD + P` - `>`
     - Able to do lots of things!
     - If it's an action you want to complete within vscode, there is probably a command for it in the command palete
@@ -42,6 +45,8 @@
         - Adding cursors to lines
         - Changing the case of text
         - Navigating vscode (i.e. switching to the source control tab)
+    - XCode seems to have Quick Actions which works in a similar way
+    - It seems like many applications are adopting this workflow more and more, it's worth checking if any application you're using has it, as it's a quick way to speed things up     
 
 ## VSCode Shortcuts
 - `CMD + J`
