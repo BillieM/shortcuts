@@ -61,6 +61,11 @@
     - Go to definition
 - `CTRL + -`
     - Go to last position
+- `CMD + SHIFT + .`
+    - Focus breadcrumb
+    - The breadcrumb (at the top of the open file) shows you where the currently open file is located within the open workspace
+    - This can be navigated usually by clicking on e.g. the file name to navigate to another file in the same directory
+    - For example, if you are in a directory with `forecast.go` and `forecast_test.go`, and you want to navigate to the test file, this is a way of doing that     
 
 ## MacOS Shortcuts
 - `CMD + SPACE`
