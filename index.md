@@ -43,6 +43,7 @@
         - Running tests
         - Folding/ Unfolding code
         - Adding cursors to lines
+            - The combination of additional cursors (whether created with the command palette, clicking, or with find/ replace) can be very useful in conjunction with command palette operations
         - Changing the case of text
         - Navigating vscode (i.e. switching to the source control tab)
     - XCode seems to have Quick Actions which works in a similar way
@@ -55,6 +56,11 @@
     - Open / close the side pane
 - `CMD + F`
     - Search file
+    - There are lots of additional commands you can can use for find/ replace, either with shortcuts or using the command palette, and you can also navigate the find interface with `TAB`/ `SHIFT + TAB` / `ARROW KEYS`, some examples:
+        - `CMD + ENTER`
+            - Replace all occurences
+        - `ALT + ENTER`
+            - Add cursors to all occurences
 - `CMD + SHIFT + F`
     - Search workspace
     - `F4` / `SHIFT + F4` to jump through these searches
@@ -70,7 +76,13 @@
     - Focus breadcrumb
     - The breadcrumb (at the top of the open file) shows you where the currently open file is located within the open workspace
     - This can be navigated usually by clicking on e.g. the file name to navigate to another file in the same directory
-    - For example, if you are in a directory with `forecast.go` and `forecast_test.go`, and you want to navigate to the test file, this is a way of doing that     
+    - For example, if you are in a directory with `forecast.go` and `forecast_test.go`, and you want to navigate to the test file, this is a way of doing that
+- `ALT + CLICK`
+    - Add additional cursor
+- `ALT + SHIFT + UP/DOWN ARROWS`
+    - Copy focused line above/ below
+- `CMD + ALT + UP/DOWN ARROWS`
+    - Create an additional cursor above/ below
 
 ## MacOS Shortcuts
 - `CMD + SPACE`
