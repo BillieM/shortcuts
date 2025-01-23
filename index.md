@@ -129,6 +129,8 @@
     - Bookmarks sidebar
 - `CMD + D`
     - Create shortcut
+- `CMD + LEFT/ RIGHT ARROW KEY`
+    - Back a page/ forward a page
 - Address bar bangs (This exists on other browsers too but will be slightly different)
     - about:preferences#search(about:preferences#search)
     - Built in
